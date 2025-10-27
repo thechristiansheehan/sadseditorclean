@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52479750.css",
+    "main.js": "/static/js/main.4e54737d.js",
+    "static/media/Riona Sans W01 Medium.ttf": "/static/media/Riona Sans W01 Medium.fd9a7a5e929804760f3e.ttf",
+    "index.html": "/index.html",
+    "main.52479750.css.map": "/static/css/main.52479750.css.map",
+    "main.4e54737d.js.map": "/static/js/main.4e54737d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52479750.css",
+    "static/js/main.4e54737d.js"
+  ]
+}

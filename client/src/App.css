@@ -1,0 +1,31 @@
+/* src/App.css */
+@font-face {
+  font-family: "Riona Sans W01 Medium";
+  src: url("./Riona Sans W01 Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+  background-color: #252525;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: "Riona Sans W01 Medium", sans-serif;
+  font-size: 1rem; /* Set global font size */
+}
+
+#root {
+  background-color: #252525;
+  min-height: 100vh;
+  width: 100%;
+  font-family: "Riona Sans W01 Medium", sans-serif;
+
+}
+
+button,
+input {
+  font-family: "Riona Sans W01 Medium", sans-serif !important;
+
+}
